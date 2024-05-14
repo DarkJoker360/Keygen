@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keygen</string>
+
+    <string name="output">Sortie</string>
+    <string name="add_numbers">Inclure les chiffres</string>
+    <string name="add_chars">Inclure des caractères spéciaux</string>
+    <string name="length">Longueur: </string>
+    <string name="action_generate">Générer</string>
+    <string name="action_copy">Copier</string>
+    <string name="action_copied">Mot de passe copié dans le presse-papiers</string>
+</resources>

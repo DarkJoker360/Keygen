@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keygen</string>
+
+    <string name="output">Output</string>
+    <string name="add_numbers">Include numbers</string>
+    <string name="add_chars">Include special characters</string>
+    <string name="length">Length: </string>
+    <string name="action_generate">Generate</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_copied">Password copied to clipboard</string>
+</resources>

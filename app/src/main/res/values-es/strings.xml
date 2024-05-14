@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keygen</string>
+
+    <string name="output">Salida</string>
+    <string name="add_numbers">Incluir números</string>
+    <string name="add_chars">Incluir caracteres especiales</string>
+    <string name="length">Longitud: </string>
+    <string name="action_generate">Generar</string>
+    <string name="action_copy">Copiar</string>
+    <string name="action_copied">Contraseña copiada al portapapeles</string>
+</resources>
+

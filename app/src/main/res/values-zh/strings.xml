@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keygen</string>
+
+    <string name="output">输出</string>
+    <string name="add_numbers">包括数字</string>
+    <string name="add_chars">包括特殊字符</string>
+    <string name="length">长度: </string>
+    <string name="action_generate">生成</string>
+    <string name="action_copy">复制</string>
+    <string name="action_copied">密码已复制到剪贴板</string>
+</resources>
+
+

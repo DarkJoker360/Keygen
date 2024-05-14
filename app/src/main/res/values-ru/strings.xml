@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keygen</string>
+
+    <string name="output">Выход</string>
+    <string name="add_numbers">Включить числа</string>
+    <string name="add_chars">Включить специальные символы</string>
+    <string name="length">Длина: </string>
+    <string name="action_generate">Сгенерировать</string>
+    <string name="action_copy">Копировать</string>
+    <string name="action_copied">Пароль скопирован в буфер обмена</string>
+</resources>
+
+
